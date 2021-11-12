@@ -1,0 +1,1 @@
+/Users/gautier.vanneste/hotel-cuzco-v2/build/classes/kotlin/main/business_logic/Room.class:/Users/gautier.vanneste/hotel-cuzco-v2/build/classes/kotlin/main/business_logic/get_rooms/GetAllRooms.class

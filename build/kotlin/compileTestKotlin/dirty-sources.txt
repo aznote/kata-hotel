@@ -1,1 +1,0 @@
-/Users/yohann.rodier/Project/kata-hotel/kata-hotel/src/test/kotlin/GetAllRoomsTest.kt
