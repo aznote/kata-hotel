@@ -1,4 +1,4 @@
-package business_logic
+package business_logic.room_management
 
 class Room(
     private val étage: String,
