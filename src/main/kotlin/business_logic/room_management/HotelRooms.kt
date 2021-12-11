@@ -1,5 +1,5 @@
 package business_logic.room_management
 
-interface RoomDatasource {
+interface HotelRooms {
     fun getAllRooms(): List<Room>;
 }

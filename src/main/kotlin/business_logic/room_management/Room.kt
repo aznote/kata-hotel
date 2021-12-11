@@ -1,10 +1,10 @@
 package business_logic.room_management
 
 class Room(
-    private val étage: String,
-    private val numéroChambre: String,
-    private val description: String,
-    private val capacité: Int
+    val étage: String,
+    val numéroChambre: String,
+    val description: String,
+    val capacité: Int
 ) {
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
